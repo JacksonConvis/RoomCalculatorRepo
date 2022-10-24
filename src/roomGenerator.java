@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class roomGenerator {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		// This program calculates the area and perimeter of up to 2 rectangular shaped rooms.
 		System.out.println("Welcome to the Room Detail Generator!");
 		Scanner scan = new Scanner(System.in);
